@@ -1,4 +1,4 @@
-# Transpose LaTeX table
+# Transpose LaTeX Tables
 
 This script can be used to transpose LaTeX tables. Simply copy and paste your 
 current LaTeX tabular field in `transpose_latex_tables.py`, run the script and 
